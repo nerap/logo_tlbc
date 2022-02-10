@@ -1,0 +1,31 @@
+{
+    "name": "Hidden reveal #",
+    "symbol": "CLTBC",
+    "description": "To gain access to one of the 5555 Lofts, you will need to own one of the Access Cards. There are three types of Access Cards : the Standard Access Card (4400 pieces), the Premium Access Card (1100 pieces) and the Exclusive Access Card (55 pieces). The rarer the Access Card, the bigger the apartment and the amount of special features.",
+    "seller_fee_basis_points": 750,
+    "image": "image.png",
+    "attributes": [
+      { 
+        "trait_type": "background",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Cute mouth"
+      }
+    ],
+    "collection": { "name": "LTBC Access Card", "family": "Hidden" },
+    "properties": {
+      "files": [
+          {
+            "uri": "https://raw.githubusercontent.com/nerap/logo_tlbc/main/token_wl.png",
+            "type": "image/png"
+          }],
+      "creators": [
+        {
+          "address": "8j96MAHSVPeQaNUK7XtPDnReDnJPLvScqBR4XxYuJ2JH",
+          "share": 100
+        }
+      ]
+    }
+  }
